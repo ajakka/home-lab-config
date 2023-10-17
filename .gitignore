@@ -1,0 +1,9 @@
+# Syncthing
+Syncthing/config.xml.v0
+Syncthing/*.txt
+Syncthing/*.pem
+Syncthing/index*.db/
+Syncthing/Sync/
+
+# Homepage
+Homepage/logs/
